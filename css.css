@@ -40,6 +40,12 @@ padding: 0 350px;
   background-color: rgb(188, 226, 194);
   border: 5px solid #005f00;
 }
+.infoT {
+  width: 1123px;
+  height: 250px;
+  background-color: rgb(188, 226, 194);
+  border: 5px solid #005f00;
+}
 .biginfo{
   width: 1400px;
   height: 650px;
