@@ -1,32 +1,32 @@
 .containers {
 display: flex;
-padding: 0 200px;
+padding: 0 150px;
 column-gap: 100px;
 }
 
 .box-1 {
-  width: 425px;
-  height: 500px;
+  width: 300px;
+  height: 375px;
   border: 1px solid rgb(11, 94, 0);
   background-color: rgb(188, 226, 194);
 }
 
 .box-2 {
-  width: 425px;
-  height: 500px;
+  width: 300px;
+  height: 375px;
   border: 1px solid rgb(11, 94, 0);
   background-color: rgb(188, 226, 194);
 }
 
 .box-3 {
-  width: 425px;
-  height: 500px;
+  width: 300px;
+  height: 375px;
   border: 1px solid rgb(11, 94, 0);
   background-color: rgb(188, 226, 194);
 }
 .box-4 {
-  width: 425px;
-  height: 425px;
+  width: 300px;
+  height: 375px;
   border: 1px solid rgb(11, 94, 0);
   background-color: rgb(188, 226, 194);
 }
