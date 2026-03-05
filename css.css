@@ -1,7 +1,12 @@
 .containers {
 display: flex;
-padding: 0 150px;
+padding: 0 365px;
 column-gap: 100px;
+}
+.containers2 {
+display: flex;
+padding: 0 230px;
+column-gap: 150px;
 }
 
 .box-1 {
@@ -64,8 +69,8 @@ summary::-webkit-details-marker {
 summary {
   cursor: pointer;
   padding: 10px;
-  background-color: #005f00;
-  border: 1px solid #005f00;
+  background-color: #0a8b0a;
+  border: 1px solid #097c09;
   margin-top: 5px;
 }
 
@@ -73,7 +78,7 @@ ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
-  border: 1px solid #218602;
+  border: 1px solid #249701;
   border-top: none;
 }
 
@@ -81,8 +86,8 @@ li a {
   display: block;
   padding: 10px;
   text-decoration: none;
-  color: #333;
-  background-color: #026902;
+  color: #ffffff;
+  background-color: #0b860b;
 }
 
 li a:hover {
@@ -103,7 +108,7 @@ body{
 }
  .rectangle {
   width: 1925px;
-  height: 18%;
+  height: 8%;
   background-color: #ffee00;
   border: 1px solid #f3e51f;
   transform: translate(-20px, -20px);
@@ -112,8 +117,8 @@ body{
 }
 .rectangle2 {
   width: 1925px;
-  height: 15%;
-  background-color: #016b01;
+  height: 6%;
+  background-color: #008a00;
   border: 1px sol #017701;
   transform: translate(-20px, -20px);
   position: fixed;
@@ -127,7 +132,7 @@ body{
 }
 .activityArea {
 display: flex;
-padding: 0 200px;
+padding: 0 100px;
 column-gap: 100px;
 }
 .activity{
