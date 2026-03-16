@@ -8,6 +8,11 @@ display: flex;
 padding: 0 200px;
 column-gap: 62px;
 }
+.containers3 {
+display: flex;
+padding: 0 200px;
+column-gap: 100px;
+}
 
 .box-1 {
   width: 500px;
@@ -137,6 +142,12 @@ column-gap: 100px;
 }
 .activity{
   width: 601px;
+  height: 600px;
+  background-color: rgb(188, 226, 194);
+  border: 5px solid #005f00;
+}
+.description{
+  width: 300px;
   height: 600px;
   background-color: rgb(188, 226, 194);
   border: 5px solid #005f00;
