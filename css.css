@@ -1,24 +1,24 @@
 .containers {
 display: flex;
-padding: 0 365px;
-column-gap: 100px;
+padding: 0 350px;
+column-gap: 130px;
 }
 .containers2 {
 display: flex;
-padding: 0 230px;
-column-gap: 150px;
+padding: 0 200px;
+column-gap: 62px;
 }
 
 .box-1 {
-  width: 300px;
-  height: 375px;
+  width: 500px;
+  height: 550px;
   border: 1px solid rgb(11, 94, 0);
   background-color: rgb(188, 226, 194);
 }
 
 .box-2 {
-  width: 300px;
-  height: 375px;
+  width: 500px;
+  height: 550px;
   border: 1px solid rgb(11, 94, 0);
   background-color: rgb(188, 226, 194);
 }
@@ -30,8 +30,8 @@ column-gap: 150px;
   background-color: rgb(188, 226, 194);
 }
 .box-4 {
-  width: 300px;
-  height: 375px;
+  width: 425px;
+  height: 425px;
   border: 1px solid rgb(11, 94, 0);
   background-color: rgb(188, 226, 194);
 }
